@@ -1,0 +1,1 @@
+"C:\Users\Administrator\Desktop\pscp\pscp.exe" -pw 1 "main_encode.cpp" "main_decode.cpp" "Makefile" "decodeAllFile.cpp" "decodeAllFile.h" "encodeAllFile.cpp" "encodeAllFile.h" lhm@192.168.126.128:/home/lhm/Desktop/encode_decode_all_file
